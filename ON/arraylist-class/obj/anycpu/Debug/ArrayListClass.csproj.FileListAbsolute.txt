@@ -1,0 +1,4 @@
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/arraylist-class/bin/Debug/arraylist-class.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/arraylist-class/bin/Debug/arraylist-class.pdb
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/arraylist-class/obj/anycpu/Debug/arraylist-class.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/arraylist-class/obj/anycpu/Debug/arraylist-class.pdb

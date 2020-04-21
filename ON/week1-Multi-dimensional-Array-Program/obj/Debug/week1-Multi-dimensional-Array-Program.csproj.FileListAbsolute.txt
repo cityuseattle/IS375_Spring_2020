@@ -1,0 +1,5 @@
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/week1-Multi-dimensional-Array-Program/bin/Debug/week1-Multi-dimensional-Array-Program.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/week1-Multi-dimensional-Array-Program/bin/Debug/week1-Multi-dimensional-Array-Program.pdb
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/week1-Multi-dimensional-Array-Program/obj/Debug/week1-Multi-dimensional-Array-Program.csprojAssemblyReference.cache
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/week1-Multi-dimensional-Array-Program/obj/Debug/week1-Multi-dimensional-Array-Program.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/week1-Multi-dimensional-Array-Program/obj/Debug/week1-Multi-dimensional-Array-Program.pdb

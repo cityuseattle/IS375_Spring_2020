@@ -1,0 +1,4 @@
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/StackClass/bin/Debug/StackClass.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/StackClass/bin/Debug/StackClass.pdb
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/StackClass/obj/anycpu/Debug/StackClass.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/StackClass/obj/anycpu/Debug/StackClass.pdb

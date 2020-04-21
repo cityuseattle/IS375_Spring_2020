@@ -1,0 +1,4 @@
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/HashTableClass/bin/Debug/HashTableClass.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/HashTableClass/bin/Debug/HashTableClass.pdb
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/HashTableClass/obj/anycpu/Debug/HashTableClass.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/HashTableClass/obj/anycpu/Debug/HashTableClass.pdb
