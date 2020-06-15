@@ -1,0 +1,4 @@
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/QueueClass/bin/Debug/QueueClass.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/QueueClass/bin/Debug/QueueClass.pdb
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/QueueClass/obj/anycpu/Debug/QueueClass.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/QueueClass/obj/anycpu/Debug/QueueClass.pdb

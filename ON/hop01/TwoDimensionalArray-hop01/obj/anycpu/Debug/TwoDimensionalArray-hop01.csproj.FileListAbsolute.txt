@@ -1,0 +1,4 @@
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/TwoDimensionalArray-hop01/bin/Debug/TwoDimensionalArray-hop01.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/TwoDimensionalArray-hop01/bin/Debug/TwoDimensionalArray-hop01.pdb
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/TwoDimensionalArray-hop01/obj/anycpu/Debug/TwoDimensionalArray-hop01.exe
+/Users/zhangqinglong/Projects/week1-Multi-dimensional-Array-Program/TwoDimensionalArray-hop01/obj/anycpu/Debug/TwoDimensionalArray-hop01.pdb
