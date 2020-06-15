@@ -1,0 +1,13 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csprojAssemblyReference.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\New folder\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.genruntimeconfig.cache
