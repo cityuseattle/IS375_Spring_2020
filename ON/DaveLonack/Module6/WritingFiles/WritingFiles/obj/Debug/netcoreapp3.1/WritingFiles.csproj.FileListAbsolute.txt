@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.genruntimeconfig.cache

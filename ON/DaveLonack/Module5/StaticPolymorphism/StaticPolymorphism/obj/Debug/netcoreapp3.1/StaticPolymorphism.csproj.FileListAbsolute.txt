@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\StaticPolymorphism\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.genruntimeconfig.cache

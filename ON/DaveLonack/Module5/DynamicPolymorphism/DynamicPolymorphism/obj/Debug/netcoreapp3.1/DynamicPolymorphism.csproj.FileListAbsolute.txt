@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.genruntimeconfig.cache

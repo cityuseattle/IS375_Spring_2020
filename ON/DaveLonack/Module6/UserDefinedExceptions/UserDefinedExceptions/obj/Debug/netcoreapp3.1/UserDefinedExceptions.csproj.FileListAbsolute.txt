@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.genruntimeconfig.cache

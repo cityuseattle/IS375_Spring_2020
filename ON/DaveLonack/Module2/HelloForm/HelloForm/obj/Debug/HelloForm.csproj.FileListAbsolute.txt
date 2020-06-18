@@ -1,0 +1,10 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\bin\Debug\HelloForm.exe.config
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\bin\Debug\HelloForm.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\bin\Debug\HelloForm.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.csprojAssemblyReference.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.Form1.resources
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.Properties.Resources.resources
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.csproj.GenerateResource.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module2\HelloForm\HelloForm\obj\Debug\HelloForm.pdb

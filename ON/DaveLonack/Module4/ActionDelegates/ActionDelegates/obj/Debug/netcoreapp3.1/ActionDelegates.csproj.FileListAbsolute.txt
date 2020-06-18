@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.genruntimeconfig.cache

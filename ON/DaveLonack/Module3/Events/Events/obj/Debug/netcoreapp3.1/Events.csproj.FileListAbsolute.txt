@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module3\Events\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

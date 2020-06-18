@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.genruntimeconfig.cache
