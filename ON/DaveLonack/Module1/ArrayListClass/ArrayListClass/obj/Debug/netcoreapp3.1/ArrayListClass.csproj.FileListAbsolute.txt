@@ -1,0 +1,12 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\bin\Debug\netcoreapp3.1\ArrayListClass.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\bin\Debug\netcoreapp3.1\ArrayListClass.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\bin\Debug\netcoreapp3.1\ArrayListClass.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\bin\Debug\netcoreapp3.1\ArrayListClass.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\bin\Debug\netcoreapp3.1\ArrayListClass.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\bin\Debug\netcoreapp3.1\ArrayListClass.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\obj\Debug\netcoreapp3.1\ArrayListClass.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\obj\Debug\netcoreapp3.1\ArrayListClass.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\obj\Debug\netcoreapp3.1\ArrayListClass.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\obj\Debug\netcoreapp3.1\ArrayListClass.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\obj\Debug\netcoreapp3.1\ArrayListClass.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\ArrayListClass\ArrayListClass\obj\Debug\netcoreapp3.1\ArrayListClass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.csprojAssemblyReference.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfo.cs
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.exe
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.deps.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.dev.json
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
+C:\Users\Lonac\source\repos\IS375_Spring_2020\ON\DaveLonack\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.genruntimeconfig.cache
